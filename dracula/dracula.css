@@ -304,7 +304,7 @@ section table tbody > tr:nth-child(even) th {
 }
 
 section.title {
-  margin-top: 5.0em;
+  margin-top: 6.0em;
   /* display: table-cell !important; */
   /* vertical-align: middle !important; */
 }
