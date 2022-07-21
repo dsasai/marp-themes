@@ -302,6 +302,15 @@ section table tbody > tr:nth-child(even) th {
   background: var(--dracula-current-line);
 }
 
+section.title {
+  justify-content: center;
+  text-align: left;
+}
+
+section {
+  justify-content: start;
+}
+
 header,
 footer,
 section::after {
