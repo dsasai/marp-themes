@@ -303,12 +303,12 @@ section table tbody > tr:nth-child(even) th {
 }
 
 section.title {
-  display: table-cell;
-  vertical-align: middle;
+  display: table-cell !important;
+  vertical-align: middle !important;
 }
 
 section h1 {
-  text-align: center;
+  text-align: center !important;
 }
 
 header,
