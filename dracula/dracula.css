@@ -307,7 +307,7 @@ section.title {
   vertical-align: middle !important;
 }
 
-section.title h1 {
+section h1 {
   text-align: center !important;
   font-size: 5.0em !important;
   padding-bottom: 50.0em !important;
